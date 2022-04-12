@@ -45,7 +45,7 @@ end
 # Extensions
 # ----------------------------------------------
 
-activate :es6
+# activate :es6
 
 # Activate directory indexes
 activate :directory_indexes

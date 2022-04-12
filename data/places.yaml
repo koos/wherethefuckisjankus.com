@@ -1,9 +1,33 @@
+- city: Berlin
+  country: Germany
+  date:
+    from: 18. April, 2022
+    to: 19. April, 2022
+  url: https://www.google.de/maps/place/Berlin/@51.151786,10.415039,6z/data=!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954
+  state: upcoming
+
+- city: Bardo
+  country: Poland
+  date:
+    from: 13. April, 2022
+    to: 18. April, 2022
+  url: https://www.google.com/maps/place/Bardo,+Poland/@50.5006787,16.7296926,14z/data=!3m1!4b1!4m5!3m4!1s0x470e22c956ba0a23:0x6919681eaba27484!8m2!3d50.50505!4d16.74043
+  state: upcoming
+
+- city: Innsbruck
+  country: Austria  
+  date:
+    from: March, 2022
+    to: March, 2022
+  url: https://www.google.com/maps/place/Innsbruck,+Austria/data=!4m2!3m1!1s0x479d6ecfe1f8ca73:0x9d201c7d281d9b0d?sa=X&ved=2ahUKEwi288T6vaLiAhVMJ1AKHRugB0cQ8gEwAHoECAkQAQ
+  state: past
+
 - city: Quarantine
   country: Germany
   date:
     from: March, 2019
   url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
-  state: current 
+  state: past 
 
 - city: Innsbruck
   country: Austria  
