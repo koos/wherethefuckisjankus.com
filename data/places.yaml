@@ -1,10 +1,113 @@
+- city: Innsbruck
+  country: Austria  
+  date:
+    from: March, 2023
+    to: March, 2023
+  url: https://www.google.com/maps/place/Innsbruck,+Austria/data=!4m2!3m1!1s0x479d6ecfe1f8ca73:0x9d201c7d281d9b0d?sa=X&ved=2ahUKEwi288T6vaLiAhVMJ1AKHRugB0cQ8gEwAHoECAkQAQ
+  state: upcomming
+
+- city: Bits&Pretzels::Munich
+  country: Germany
+  date:
+    from: 24. September, 2022
+    to: 28. September, 2022
+  url: https://www.google.de/maps/place/Munich/data=!4m2!3m1!1s0x479e75f9a38c5fd9:0x10cb84a7db1987d?sa=X&ved=0ahUKEwjKnayUr7PSAhVH7RQKHRm2BEkQ8gEIGzAA
+  state: upcomming 
+
+- city: Pirate Summit::Cologne
+  country: Germany
+  date:
+    from: 06. September, 2020
+    to: 07. September, 2020
+  url: https://www.google.com/maps/place/Odonien/@50.9549037,6.9395017,15z/data=!4m2!3m1!1s0x0:0x3e6fa2bcef187048?sa=X&ved=2ahUKEwiGp86K1oz5AhWKiqQKHXSICBoQ_BJ6BAhSEAU
+  state: upcomming 
+
+- city: Amsterdam
+  country: Netherlands
+  date:
+    from: 23. August, 2022
+    to: 24. August, 2022
+  url: https://www.google.de/maps/place/Amsterdam,+Netherlands/@52.3745287,4.7581891,11z/data=!3m1!4b1!4m5!3m4!1s0x47c63fb5949a7755:0x6600fd4cb7c0af8d!8m2!3d52.3702157!4d4.8951679
+  state: upcomming
+
+- city: Taufkirchen
+  country: Germany
+  date:
+    from: August, 2019
+  url: https://www.google.com/maps/place/Taufkirchen/data=!4m2!3m1!1s0x479de741f858e471:0x42a1f39c3edfaa0c?sa=X&ved=2ahUKEwjC9OXw1Yz5AhXCjqQKHVE2DyEQ8gF6BAgLEAE
+  state: upcomming 
+
+- city: Cologne
+  country: Germany
+  date:
+    from: July, 2020
+    to: August, 2020
+  url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
+  state: current 
+
+- city: Bardo
+  country: Poland
+  date:
+    from: 14. July, 2022
+    to: 19. July, 2022
+  url: https://www.google.com/maps/place/Bardo,+Poland/@50.5006787,16.7296926,14z/data=!3m1!4b1!4m5!3m4!1s0x470e22c956ba0a23:0x6919681eaba27484!8m2!3d50.50505!4d16.74043
+  state: past
+
+- city: Munich
+  country: Germany
+  date:
+    from: 03. July, 2022
+    to: 06. July, 2022
+  url: https://www.google.de/maps/place/Munich/data=!4m2!3m1!1s0x479e75f9a38c5fd9:0x10cb84a7db1987d?sa=X&ved=0ahUKEwjKnayUr7PSAhVH7RQKHRm2BEkQ8gEIGzAA
+  state: past 
+
+- city: Billund
+  country: Danmark 
+  date:
+    from: July, 2022
+    to: July, 2022
+  url: https://www.google.com/maps/place/7190+Billund,+Denmark/@55.7309668,9.0105694,12z/data=!3m1!4b1!4m5!3m4!1s0x464b7223afe241b3:0x89be7375803be832!8m2!3d55.728449!4d9.112366
+  state: past
+
+- city: Gothenburg
+  country: Sweden 
+  date:
+    from: July, 2022
+    to: July, 2022
+  url: https://www.google.com/maps/place/Gothenburg,+Sweden/@57.7010496,11.6136582,10z/data=!3m1!4b1!4m5!3m4!1s0x464f8e67966c073f:0x4019078290e7c40!8m2!3d57.70887!4d11.97456
+  state: past
+
+- city: Stockholm
+  country: Sweden 
+  date:
+    from: July, 2022
+    to: July, 2022
+  url: https://www.google.com/maps/place/Stockholm,+Sweden/@59.326242,17.8419702,11z/data=!3m1!4b1!4m5!3m4!1s0x465f763119640bcb:0xa80d27d3679d7766!8m2!3d59.3293235!4d18.0685808
+  state: past
+
+- city: Karlskrona
+  country: Sweden 
+  date:
+    from: July, 2022
+    to: July, 2022
+  url: https://www.google.com/maps/place/Karlskrona,+Sweden/data=!4m2!3m1!1s0x4656125ba6e47d1d:0x400fef341e47840?sa=X&ved=2ahUKEwjVw5nG1Iz5AhWS76QKHa_NC5oQ8gF6BAhVEAE
+  state: past
+
+- city: København
+  country: Danmark  
+  date:
+    from: June, 2022
+    to: June, 2022
+  url: https://www.google.com/maps/place/Copenhagen,+Denmark/data=!4m2!3m1!1s0x4652533c5c803d23:0x4dd7edde69467b8?sa=X&ved=2ahUKEwjayci504z5AhWEOOwKHX0GDF0Q8gF6BAhyEAE
+  state: past
+
 - city: Berlin
   country: Germany
   date:
     from: 18. April, 2022
     to: 19. April, 2022
   url: https://www.google.de/maps/place/Berlin/@51.151786,10.415039,6z/data=!4m5!3m4!1s0x47a84e373f035901:0x42120465b5e3b70!8m2!3d52.5200066!4d13.404954
-  state: upcoming
+  state: past
 
 - city: Bardo
   country: Poland
@@ -12,7 +115,7 @@
     from: 13. April, 2022
     to: 18. April, 2022
   url: https://www.google.com/maps/place/Bardo,+Poland/@50.5006787,16.7296926,14z/data=!3m1!4b1!4m5!3m4!1s0x470e22c956ba0a23:0x6919681eaba27484!8m2!3d50.50505!4d16.74043
-  state: upcoming
+  state: past
 
 - city: Innsbruck
   country: Austria  
@@ -25,7 +128,7 @@
 - city: Quarantine
   country: Germany
   date:
-    from: March, 2019
+    from: March, 2020
   url: https://www.google.de/maps/place/Cologne/@50.9573677,6.6871436,10z/data=!3m1!4b1!4m5!3m4!1s0x47bf259169ab2fe5:0x42760fc4a2a77f0!8m2!3d50.937531!4d6.9602786
   state: past 
 
